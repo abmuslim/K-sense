@@ -5,7 +5,7 @@ eBPF-based framework that infers QoS degradation from kernel behavior by computi
 a covariance-aware friction signal (Mahalanobis distance) plus a directional sign
 and an adaptive energy signal.
 
-Paper status: This work is under review for IEEE ICFE 2026.
+Paper status: This work is under review for IEEE ICFEC 2026.
 
 ## License
 
